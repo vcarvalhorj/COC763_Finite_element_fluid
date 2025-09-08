@@ -1,4 +1,4 @@
-# Trabalho
+# Trabalho COC763 FEF
 
 - a)	ns_transiente_v1_supg.py :tem por objetivo a implementação da marcha temporal (Backward Euler implícito) no problema lid driven cavity (ref. [Github Garbiel Barros: https://github.com/gf-barros/supg_stabilization/]).
 - b)	ns_sups.py: este código implementa a estabilização SUPS para o acoplamento velocidade-pressão.
